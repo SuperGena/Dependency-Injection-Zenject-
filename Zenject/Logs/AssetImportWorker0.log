@@ -306,3 +306,80 @@ Received Import Request.
 Start importing Assets/Scripts/Factories/AbstractFactory using Guid(ce98e7537e392eb4aa870ddfec87e63c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b51ab809420fb5bafe47d939033cd18c') in 0.003864 seconds
   Import took 0.005579 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000389 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.680 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1583.
+Total: 1.656000 ms (FindLiveObjects: 0.130200 ms CreateObjectMapping: 0.037800 ms MarkObjects: 1.437500 ms  DeleteObjects: 0.049000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4901.203041 seconds.
+  path: Assets/Scripts/Factories/AbstractFactory/WeaponFactory.cs
+  artifactKey: Guid(3aed3cdf0ad569c4aaf3ff3e12f81c57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Factories/AbstractFactory/WeaponFactory.cs using Guid(3aed3cdf0ad569c4aaf3ff3e12f81c57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2364ebc1021a2a0a312f37108dcc5d2') in 0.004252 seconds
+  Import took 0.006033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001479 seconds.
+  path: Assets/Scripts/Factories/AbstractFactory/WeaponFactory.cs
+  artifactKey: Guid(3aed3cdf0ad569c4aaf3ff3e12f81c57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Factories/AbstractFactory/WeaponFactory.cs using Guid(3aed3cdf0ad569c4aaf3ff3e12f81c57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2364ebc1021a2a0a312f37108dcc5d2') in 0.001922 seconds
+  Import took 0.004249 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000358 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.698 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1587.
+Total: 1.712900 ms (FindLiveObjects: 0.114500 ms CreateObjectMapping: 0.038200 ms MarkObjects: 1.510000 ms  DeleteObjects: 0.049600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000417 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.678 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1590.
+Total: 1.427200 ms (FindLiveObjects: 0.124700 ms CreateObjectMapping: 0.032600 ms MarkObjects: 1.220800 ms  DeleteObjects: 0.048100 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
